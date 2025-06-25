@@ -1,14 +1,14 @@
 # Sustain-&-BurnLottery🔥♻️
 
 **A daily on‑chain game that deflates your IACS token while crowning one lucky winner.**
-Each 10000IACS ticket burns20% forever → the other80% snowballs into the day’s jackpot.
+Each 10000 IACS ticket burns20% forever → the other80% snowballs into the day’s jackpot.
 No rake, no admin custody – just autonomous smart‑contracts plus Chainlink Automation+VRFv2.5.
 
 [Live Deployment](https://basescan.org/address/0x16740dc263e7aB962B74554327113f09aFe01380)
 
 ---
 
-## 🚀QuickStart (BaseMain‑net)
+## 🚀 QuickStart (BaseMain‑net)
 
 |  # | Action             | CLI/UI step                                                                                                                                    |
 | :--: | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -25,7 +25,7 @@ No rake, no admin custody – just autonomous smart‑contracts plus Chainlink A
 
 ---
 
-## 🛠️NPMScripts
+## 🛠️NPM Scripts
 
 | Script          | Use‑case                        |
 | ---------------- | ------------------------------- |
@@ -36,7 +36,7 @@ No rake, no admin custody – just autonomous smart‑contracts plus Chainlink A
 
 ---
 
-## 📜ContractInterface
+## 📜Contract Interface
 
 ```solidity
 // IACS must be pre‑approved for cost = qty * 10_000 * 1e18
@@ -53,7 +53,7 @@ Events to watch:
 
 ---
 
-## ✨Whyitrocks
+## ✨Why it rocks
 
 * **Permanent burn**– gameplay that shrinks supply every day.
 * **Provably fair**– randomness from Chainlink VRFv2.5.
