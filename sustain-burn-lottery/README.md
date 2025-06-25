@@ -4,6 +4,8 @@
 Each 10000IACS ticket burns20% forever → the other80% snowballs into the day’s jackpot.
 No rake, no admin custody – just autonomous smart‑contracts plus Chainlink Automation+VRFv2.5.
 
+[Live Deployment](https://basescan.org/address/0x16740dc263e7aB962B74554327113f09aFe01380)
+
 ---
 
 ## 🚀QuickStart (BaseMain‑net)
