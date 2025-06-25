@@ -36,6 +36,8 @@ Each experiment lives in its own folder :
 
 All feedback—technical, economic, or UX—is welcome.
 
+🧠 Built with purpose by Omniacs.DAO • Back us with $IACS → 0x46e69Fa9059C3D5F8933CA5E993158568DC80EBf (Base)
+
 ---
 
 ## 📄 License
