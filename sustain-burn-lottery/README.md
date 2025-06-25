@@ -36,7 +36,7 @@ No rake, no admin custody – just autonomous smart‑contracts plus Chainlink A
 
 ---
 
-## 📜Contract Interface
+## 📜 Contract Interface
 
 ```solidity
 // IACS must be pre‑approved for cost = qty * 10_000 * 1e18
@@ -53,7 +53,7 @@ Events to watch:
 
 ---
 
-## ✨Why it rocks
+## ✨ Why it rocks
 
 * **Permanent burn**– gameplay that shrinks supply every day.
 * **Provably fair**– randomness from Chainlink VRFv2.5.
@@ -61,3 +61,5 @@ Events to watch:
 * **Plug‑&‑Play**– swap the token address, redeploy, done.
 
 > May the burn be ever in your favour!
+
+🧠 Built with purpose by Omniacs.DAO • Back us with $IACS → 0x46e69Fa9059C3D5F8933CA5E993158568DC80EBf (Base)
